@@ -28,7 +28,7 @@ Create a detailed web app that solves for the following:
 - Look and feel of the application (after all this is a GUI)
 - quality (unit or functional tests are extra credit)
 
-A sample data set representing properties has been included to help get you started on what an API call would likely return for the list of active properties. Due to limited timeframe for the assignment it is fine to mock out API calls, however, your application should still dispatch events as though it was making API calls to a service and handle/store data as though it was received from an API call.
+A sample [data set](./src/homes.json) representing properties has been included to help get you started on what an API call would likely return for the list of active properties. Due to limited timeframe for the assignment it is fine to mock out API calls, however, your application should still dispatch events as though it was making API calls to a service and handle/store data as though it was received from an API call.
 
 As each solution is reviewed there will be an emphasis on the use of ReactJS best practices, design patterns, use of standard packages, use of ES6.
 
@@ -37,7 +37,7 @@ As each solution is reviewed there will be an emphasis on the use of ReactJS bes
 
 1. Ensure that the scripts below (npm start/test/build) are all working for your solution. They should all run successfully.
 
-2. Please make sure the repo is public. If you prefer to keep your repo private, then ensure you have granted read access to (tonyhernandez)[https://github.com/tonyhernandez] and [mapayares](https://github.com/mapayares).
+2. Please make sure the repo is public. If you prefer to keep your repo private, then ensure you have granted read access to [tonyhernandez](https://github.com/tonyhernandez) and [mapayares](https://github.com/mapayares).
 
 3. Completed the Google Form [here](https://forms.gle/We7VGi73apbECGKL6) once you are done with the code. Once submitted do not make any further changes to the code!
 
