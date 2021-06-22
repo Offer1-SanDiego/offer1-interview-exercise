@@ -1,6 +1,6 @@
 # Offer1 Interview Exercise
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to give you a quick starting place for the exercise.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to give you a quick starting place for the exercise. You can use the provided code or use a different framework/language for the front-end. You will need to provide all code for the back-end using which ever framework/language you are most comfortable with.
 
 
 ## Exercise Description
@@ -11,33 +11,23 @@ Image that you have been hired to create a new Real Estate application to help c
 - Filter homes by City, Price, Number of Bedrooms
 - Show detailed view for a selected home
 
-However, if you really want to win over customers the following nice to haves would be greatly received by your customers:
-
-- Sign-in Page
-- Ability to share a home on social media
-- Send a message to the seller's agent
-
 
 ## Solution Details
 
 Create a detailed web app that solves for the following:
 
-- modularity/re-use of components
+- modularity
 - appropriate handling of flow/navigation
 - appropirate handling of data/state
-- Look and feel of the application (after all this is a GUI)
-- quality (unit or functional tests are extra credit)
 
-A sample [data set](./src/homes.json) representing properties has been included to help get you started on what an API call would likely return for the list of active properties. Due to limited timeframe for the assignment it is fine to mock out API calls, however, your application should still dispatch events as though it was making API calls to a service and handle/store data as though it was received from an API call.
-
-As each solution is reviewed there will be an emphasis on the use of ReactJS best practices, design patterns, use of standard packages, use of ES6.
+A sample [data set](./src/homes.json) representing properties has been included to help get you started on what a data model and API call would likely return for the list of active properties. Your solution should include frontend and backend code that solves for the above requirements. 
 
 
 ## Submitting the Exercise
 
-1. Ensure that the scripts below (npm start/test/build) are all working for your solution. They should all run successfully.
+1. Ensure that the scripts needed to run your solution/app are all working and documented. They must all run successfully.
 
-2. Please make sure the repo is public. If you prefer to keep your repo private, then ensure you have granted read access to [tonyhernandez](https://github.com/tonyhernandez) and [mapayares](https://github.com/mapayares).
+2. Please make sure the repo is public. If you prefer to keep your repo private, then ensure you have granted read access to [tonyhernandez](https://github.com/tonyhernandez).
 
 3. Completed the Google Form [here](https://forms.gle/We7VGi73apbECGKL6) once you are done with the code. Once submitted do not make any further changes to the code!
 
